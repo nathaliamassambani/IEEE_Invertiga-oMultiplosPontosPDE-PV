@@ -7,3 +7,5 @@ Escolha qual dimessão de geradores irá utilizar e descomente a linha.
 Execute o matlab no botão iniciar.
 
 Publicado no IEEE Latin America Transactions.
+
+Desenvolvido no curso de Pós graduação em Engenharia Elétrica, UNESP - Bauru.
